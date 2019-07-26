@@ -4,12 +4,12 @@
       ["id": 2, "name": "France"],
       ["id": 3, "name": "Italy"],
       ["id": 4, "name": "USA"],
-      ["id": 5, "name": "Greece"],
+      ["id": 5, "name": "Greece"]
    },
    "Devices": {
 		["id": 1, "name": "RA"],
 		["id": 2, "name": "VA"],
-		["id": 3, "name": "NA"],
+		["id": 3, "name": "NA"]
    },
    "DeviceLocations": 
    {
@@ -17,6 +17,6 @@
 	["deviceId": 1, "countryId":2],
 	["deviceId": 2, "countryId":3],
 	["deviceId": 3, "countryId":4],
-	["deviceId": 3, "countryId":5],
+	["deviceId": 3, "countryId":5]
 	}
 }
