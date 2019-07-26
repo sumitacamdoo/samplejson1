@@ -11,12 +11,11 @@
 		{"id": 2, "name": "VA"},
 		{"id": 3, "name": "NA"}
    ],
-   "DeviceLocations": 
-   [
-	{"deviceId": 1, "countryId":1},
-	{"deviceId": 1, "countryId":2},
-	{"deviceId": 2, "countryId":3},
-	{"deviceId": 3, "countryId":4},
-	{"deviceId": 3, "countryId":5}
+   "DeviceLocations": [
+		{"deviceId": 1, "countryId":1},
+		{"deviceId": 1, "countryId":2},
+		{"deviceId": 2, "countryId":3},
+		{"deviceId": 3, "countryId":4},
+		{"deviceId": 3, "countryId":5}
 	]
 }
