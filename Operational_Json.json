@@ -1,0 +1,169 @@
+{
+  "data": {
+    "me": {
+      "organizations": [
+        {
+          "locations": [
+            {
+              "id": "5f3263bb-5016-4c1a-9b23-71b85a7649aa",
+              "name": "Milano Oltre 1",
+              "timezone": "Europe/Rome",
+              "address": "Via Cassanese, Segrate MI, Italia",
+              "coordinate": {
+                "latitude": 45.4949562,
+                "longitude": 9.28351029999999
+              },
+              "devices": [
+                {
+                  "id": "f7024f9e-9a69-490a-bb19-1330294dc135",
+                  "name": "Sample device #1",
+                  "online": false,
+                  "meta": {
+                    "tags": [
+                      "ciao"
+                    ],
+                    "hello": "world"
+                  },
+                  "modules": {}
+                }
+              ]
+            },
+            {
+              "id": "f0489d81-c0fa-4f4e-9549-6cc07b62bf42",
+              "name": "Hachi Jap",
+              "timezone": "Europe/Rome",
+              "address": "Via Miglioli, 20090 Segrate MI, Italy",
+              "coordinate": {
+                "latitude": 45.5005155,
+                "longitude": 9.29785070000003
+              },
+              "devices": [
+                {
+                  "id": "fc8f72f6-2dcf-41b6-a569-00f22493d8bd",
+                  "name": "ghost device 2",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": true,
+                    "esp8266": false
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "id": "f40d6bdf-89e5-4c12-a2dd-d33efec2caef",
+              "name": "My location 1",
+              "timezone": "Europe/Rome",
+              "address": null,
+              "coordinate": null,
+              "devices": [
+                {
+                  "id": "2c1919bd-c13b-52a0-bb5d-d3b685568a5f",
+                  "name": "NetMun 1",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": true,
+                    "esp8266": false
+                  }
+                },
+                {
+                  "id": "6643937c-63b8-5a8f-903a-e93df0855ae7",
+                  "name": "NetMun Playlist",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": true,
+                    "esp8266": true
+                  }
+                }
+              ]
+            },
+            {
+              "id": "756896c0-3a62-4aea-8bb6-efe3f2bdb489",
+              "name": "Segrate Office #2",
+              "timezone": "Europe/Rome",
+              "address": "Piazza Testaccio, 00153 Roma RM, Italia",
+              "coordinate": {
+                "latitude": 41.8791448,
+                "longitude": 12.4768948999999
+              },
+              "devices": []
+            },
+            {
+              "id": "92732056-2ce2-4d25-aca1-1739e27673cb",
+              "name": "Segrate",
+              "timezone": "Europe/Rome",
+              "address": "Via Rodolfo Morandi, 20090 Segrate MI, Italy",
+              "coordinate": {
+                "latitude": 45.4877631,
+                "longitude": 9.29874050000001
+              },
+              "devices": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "id": "aeeb9028-1eb8-45ce-81e6-b69538d5a95a",
+              "name": "Belgrade",
+              "timezone": "Europe/Belgrade",
+              "address": "Veljka Dugoševića 54, Beograd 11000, Serbia",
+              "coordinate": {
+                "latitude": 44.8056137,
+                "longitude": 20.493948
+              },
+              "devices": [
+                {
+                  "id": "9b047c78-6079-4fa7-87c5-5715406aa8b8",
+                  "name": "Ivan Nuc",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": false,
+                    "esp8266": false
+                  }
+                },
+                {
+                  "id": "6422a5ee-9362-50d1-b934-072b03f8fa09",
+                  "name": "Eymen Belgrade",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": false,
+                    "esp8266": false
+                  }
+                },
+                {
+                  "id": "2402b445-832a-5d74-a159-66d221dc952f",
+                  "name": "Belgrade Office #1",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": false,
+                    "esp8266": true
+                  }
+                },
+                {
+                  "id": "2dc25170-c083-5c47-af3d-9551f131c39e",
+                  "name": "Belgrade Office #2",
+                  "online": false,
+                  "meta": {},
+                  "modules": {
+                    "camera": false,
+                    "esp8266": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
